@@ -1,0 +1,5 @@
+- name: dataplane statistics
+  hosts: ComputeOvsDpdkSriov
+
+  roles:
+    - data_validation
